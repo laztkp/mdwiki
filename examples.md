@@ -24,6 +24,7 @@ This is a lose collection of websites that are known to be realized with MDwiki.
 [khannover.de](http://khannover.de/)         | Private website
 [jda.rocks](https://jda.rocks/)              | Private development website
 [constructive.gforge.inria.fr](http://constructive.gforge.inria.fr/)              | Documentation for a scientific experiment
+[wiki.laznp.id](https://wiki.laznp.id/)              | Private website blog for tutorial
 
 [mdwikisrc]: https://github.com/Dynalon/mdwiki/tree/gh-pages
 
